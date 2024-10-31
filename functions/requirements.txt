@@ -1,0 +1,8 @@
+Flask
+flask-cors
+Pillow
+torch
+transformers
+pydantic_settings
+spacy
+firebase-functions
